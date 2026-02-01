@@ -4,6 +4,9 @@
 ![ATS Friendly](https://img.shields.io/badge/ATS-Optimized-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+## 🔍 Preview
+![Resume Preview](ATS_Resume_Sample.jpg)
+
 A professional, clean, and **ATS-parsable** resume template designed to help you get past automated filters while looking elegant for human recruiters.
 
 ## 🚀 Features
