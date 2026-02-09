@@ -41,7 +41,7 @@ Ensure you have a TeX distribution installed (e.g., TeX Live, MiKTeX, MacTeX).
 
 1.  Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/ATS-Resume-Sample.git
+    git clone https://github.com/pypi-ahmad/ATS-Resume-Sample.git
     ```
 2.  Open `main.tex` in your favorite LaTeX editor (VS Code with LaTeX Workshop, TeXShop, etc.).
 3.  Compile using `pdflatex`:
