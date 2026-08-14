@@ -62,3 +62,5 @@ Feel free to fork this project and submit pull requests if you have improvements
 ## 📜 License
 
 This project is licensed under the MIT License - feel free to use it for your personal resume.
+
+<p align="center">Made with ❤️ by Ahmad Mujtaba</p>
